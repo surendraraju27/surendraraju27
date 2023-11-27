@@ -1,5 +1,5 @@
 #!/bin/bash
 
-name=$raju
+name=raju
 
 echo "hello $name"
